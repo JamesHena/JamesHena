@@ -6,7 +6,6 @@ Hi there! 👋 I'm a recent graduate of a Software Engineering Bootcamp, passion
 ## Projects 🔭
 ### Python Projects
 - [Project 1](https://github.com/JamesHena/finalCapstone.git): Enhanced functionality for a task manager application written in Python. Features include user registration, task management, and report generation.
-- [Project 2](link-to-project-2): Brief description
 
 ## Skills
 - **Languages:** Python
